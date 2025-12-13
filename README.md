@@ -102,7 +102,7 @@
 #### 🔹 TechnoKeeper
 
 RFID‑Based Smart Scheduling Door Lock System 
-⭐ Arduino • PHP • MySQL
+🔹 Arduino • PHP • MySQL
 
 </td>
 <td width="50%">
@@ -110,7 +110,7 @@ RFID‑Based Smart Scheduling Door Lock System
 #### 🔹 Simple Web Projects
 
 Collection of small frontend and backend projects
-⭐ HTML • CSS • JavaScript
+🔹 HTML • CSS • JavaScript
 
 </td>
 </tr>
