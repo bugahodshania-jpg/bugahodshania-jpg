@@ -1,41 +1,118 @@
-# Hi There! 👋
+<!--
+HOW TO USE:
+1. Create a repo named exactly your GitHub username.
+2. Add this content to README.md
+3. Replace YOUR_USERNAME and placeholders.
+-->
 
-I'm a student developer and system builder focused on **RFID systems, web development, and Arduino-based projects**.  
-I enjoy designing practical systems that combine **hardware + software** to solve real-world problems.
+<div align="center">
 
----
+<!-- HEADER -->
 
-## 🛠️ What I Work With
-- **Hardware:** Arduino Uno, RFID (MFRC522), Keypad, Servo Motor  
-- **Languages:** Arduino C/C++, PHP, JavaScript  
-- **Web:** HTML, CSS, PHP, MySQL  
-- **Tools:** Arduino IDE, XAMPP, GitHub  
+<table width="100%">
+<tr>
+<td width="30%" align="center">
+  <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" width="200" style="border-radius:12px;" />
+</td>
+<td width="70%" valign="top">
+  <h1>Howdy! 👋</h1>
+  <p>
+    I’m <b>Shania Bugahod</b>, a student developer and aspiring software engineer.
+    I enjoy building web systems, hardware‑integrated projects, and learning new technologies.
+  </p>
+  <p>
+    🔧 Interests: Web Development, Arduino, RFID Systems<br>
+    🌱 Currently learning: Full‑Stack Development<br>
+    🎯 Goal: Build useful and real‑world systems
+  </p>
+</td>
+</tr>
+</table>
 
----
-
-## 📌 Current Focus
-- **TechnoKeeper** – RFID-Based Smart Scheduling Door Lock System  
-- System automation & access control  
-- Database-driven web applications  
-
----
-
-## 📊 GitHub Activity
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bugahodshania-jpg&show_icons=true&theme=dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bugahodshania-jpg&theme=dark&hide_border=true)
-
----
-
-
-## 📂 Featured Projects
-- 🔐 **TechnoKeeper** – RFID Smart Door Lock System  
-- 🌐 **Web-Based Scheduling System**  
-- 📟 **Arduino Access Control Projects**
+</div>
 
 ---
 
-## 🤝 Let’s Connect
-- GitHub: https://github.com/bugahodshania-jpg
-- Email: bugahodshania@gmail.com
+<!-- STATS BOX -->
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=dark\&hide_border=true)
+
+</td>
+<td width="50%" align="center">
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=dark\&hide_border=true)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- CONTRIBUTIONS BOX -->
+
+<div align="center">
+
+### 🗓️ Contributions
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=github-dark\&hide_border=true)
+
+</div>
+
+---
+
+<!-- POPULAR REPOS BOX -->
+
+### 📌 Popular Repositories
+
+<table width="100%">
+<tr>
+<td width="50%">
+
+#### 🔹 TechnoKeeper
+
+RFID‑Based Smart Scheduling Door Lock System
+⭐ Arduino • PHP • MySQL
+
+</td>
+<td width="50%">
+
+#### 🔹 Simple Web Projects
+
+Collection of small frontend and backend projects
+⭐ HTML • CSS • JavaScript
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ACHIEVEMENTS / BADGES -->
+
+<div align="center">
+
+### 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+<!-- FOOTER -->
+
+<div align="center">
+
+### 🤝 Connect with Me
+
+<a href="https://github.com/YOUR_USERNAME">GitHub</a> • <a href="mailto:your.email@example.com">Email</a>
+
+</div>
