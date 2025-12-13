@@ -29,20 +29,6 @@
 
 ---
 
-
-
-<!-- CONTRIBUTIONS BOX -->
-
-<div align="center">
-
-### ▢ Contributions
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bugahodshania-jpg\&theme=github-dark\&hide_border=true)
-
-</div>
-
----
-
 <!-- STATS BOX -->
 
 <table width="100%">
@@ -62,6 +48,20 @@
 </table>
 
 ---
+
+<!-- CONTRIBUTIONS BOX -->
+
+<div align="center">
+
+### ▢ Contributions
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bugahodshania-jpg\&theme=github-dark\&hide_border=true)
+
+</div>
+
+---
+
+
 <!-- LANGUAGES & TOOLS BOX -->
 
 ### ▢ Languages & Tools
