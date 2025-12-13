@@ -111,32 +111,27 @@ Collection of small frontend and backend projects
 
 ---
 
-<!-- ACHIEVEMENTS / BADGES -->
 
-<div align="center">
-
-### ▢ Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=bugahodshania-jpg&theme=darkhub&no-frame=true&row=1&column=6" />
-
-</div>
-
----
 
 <!-- FOOTER -->
 
-<div align="center">
 
 ### ▢ Connect with Me
 
-<a href="https://github.com/bugahodshania-jpg">GitHub</a> • <a href="mailto:your.email@example.com">Email</a>
+<div align="center" style="display:flex; gap:30px; justify-content:center;">
+
+<!-- GitHub -->
+<a href="https://github.com/bugahodshania-jpg" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=00000000" alt="GitHub" height="50"/>
+</a>
+
+<!-- Gmail -->
+<a href="mailto:your.bugahodshania@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00000000" alt="Gmail" height="50"/>
+</a>
 
 </div>
 
- align="left">Connect with me:</h3>
-<p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
+
+
+
