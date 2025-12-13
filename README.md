@@ -2,10 +2,11 @@
 HOW TO USE:
 1. Create a repo named exactly your GitHub username.
 2. Add this content to README.md
-3. Replace placeholders with your info.
+3. Replace bugahodshania-jpg and placeholders.
 -->
 
 <div align="center">
+
 
 <!-- HEADER -->
 
@@ -35,6 +36,8 @@ HOW TO USE:
 
 ---
 
+---
+
 <!-- STATS BOX -->
 
 <table width="100%">
@@ -43,14 +46,14 @@ HOW TO USE:
 
 ### ▢ GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bugahodshania-jpg&show_icons=true&theme=darkblue&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bugahodshania-jpg\&show_icons=true\&theme=dark\&hide_border=true)
 
 </td>
 <td width="50%" align="center">
 
 ### ▢ GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bugahodshania-jpg&theme=blue&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bugahodshania-jpg\&theme=dark\&hide_border=true)
 
 </td>
 </tr>
@@ -64,7 +67,7 @@ HOW TO USE:
 
 ### ▢ Contributions
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bugahodshania-jpg&theme=github-dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bugahodshania-jpg\&theme=github-dark\&hide_border=true)
 
 </div>
 
@@ -78,7 +81,7 @@ HOW TO USE:
 <tr>
 <td width="50%" valign="top">
 
-**Programming Languages**
+*Programming Languages*
 
 <div align="center" style="max-width:350px;margin:auto; padding: 20px;">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,dart,flutter" style="transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
@@ -87,7 +90,7 @@ HOW TO USE:
 </td>
 <td width="50%" valign="top">
 
-**Tools & Technologies**
+*Tools & Technologies*
 
 <div align="center" style="max-width:350px;margin:auto; padding: 20px;">
   <img src="https://skillicons.dev/icons?i=arduino,mysql,git,github,vscode" style="transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
@@ -109,7 +112,7 @@ HOW TO USE:
 
 #### 🔹 TechnoKeeper
 
-RFID‑Based Smart Scheduling Door Lock System  
+RFID‑Based Smart Scheduling Door Lock System 
 ⭐ Arduino • PHP • MySQL
 
 </td>
@@ -117,7 +120,7 @@ RFID‑Based Smart Scheduling Door Lock System
 
 #### 🔹 Simple Web Projects
 
-Collection of small frontend and backend projects  
+Collection of small frontend and backend projects
 ⭐ HTML • CSS • JavaScript
 
 </td>
