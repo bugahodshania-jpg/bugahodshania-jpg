@@ -77,26 +77,30 @@ HOW TO USE:
 
 ### ▢ Languages & Tools
 
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="10" style="border-collapse: collapse; border: 1px solid #333;">
 <tr>
-<td width="50%" valign="top">
-
-*Programming Languages*
-
-<div align="center" style="max-width:350px;margin:auto; padding: 20px;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,dart,flutter" style="transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-*Tools & Technologies*
-
-<div align="center" style="max-width:350px;margin:auto; padding: 20px;">
-  <img src="https://skillicons.dev/icons?i=arduino,mysql,git,github,vscode" style="transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-</div>
-
-</td>
+  <td width="50%" valign="top" style="border-right: 1px solid #333;">
+    <b>Programming Languages</b>
+    <div style="margin-top:10px; display:flex; gap:10px; flex-wrap:wrap;">
+      <img src="https://skillicons.dev/icons?i=html" width="40" />
+      <img src="https://skillicons.dev/icons?i=css" width="40" />
+      <img src="https://skillicons.dev/icons?i=js" width="40" />
+      <img src="https://skillicons.dev/icons?i=php" width="40" />
+      <img src="https://skillicons.dev/icons?i=cpp" width="40" />
+      <img src="https://skillicons.dev/icons?i=dart" width="40" />
+      <img src="https://skillicons.dev/icons?i=flutter" width="40" />
+    </div>
+  </td>
+  <td width="50%" valign="top">
+    <b>Tools & Technologies</b>
+    <div style="margin-top:10px; display:flex; gap:10px; flex-wrap:wrap;">
+      <img src="https://skillicons.dev/icons?i=arduino" width="40" />
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" />
+      <img src="https://skillicons.dev/icons?i=git" width="40" />
+      <img src="https://skillicons.dev/icons?i=github" width="40" />
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" />
+    </div>
+  </td>
 </tr>
 </table>
 
