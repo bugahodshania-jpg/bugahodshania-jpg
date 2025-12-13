@@ -39,7 +39,7 @@
 
 ### ▢ GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bugahodshania-jpg\&show_icons=true\&theme=dark_blue\&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bugahodshania-jpg&show_icons=true&theme=dark_blue&hide_border=true)
 
 </td>
 <td width="50%" align="center">
