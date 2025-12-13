@@ -47,7 +47,6 @@
 </tr>
 </table>
 
----
 
 <!-- CONTRIBUTIONS BOX -->
 
