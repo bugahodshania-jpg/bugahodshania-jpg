@@ -2,7 +2,7 @@
 HOW TO USE:
 1. Create a repo named exactly your GitHub username.
 2. Add this content to README.md
-3. Replace YOUR_USERNAME and placeholders.
+3. Replace bugahodshania-jpg and placeholders.
 -->
 
 <div align="center">
@@ -12,7 +12,7 @@ HOW TO USE:
 <table width="100%">
 <tr>
 <td width="30%" align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" width="200" style="border-radius:12px;" />
+  <img src="https://avatars.githubusercontent.com/u/bugahodshania-jpg?v=4" width="200" style="border-radius:12px;" />
 </td>
 <td width="70%" valign="top">
   <h1>Howdy! 👋</h1>
@@ -41,14 +41,14 @@ HOW TO USE:
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=dark\&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bugahodshania-jpg\&show_icons=true\&theme=dark\&hide_border=true)
 
 </td>
 <td width="50%" align="center">
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=dark\&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bugahodshania-jpg\&theme=dark\&hide_border=true)
 
 </td>
 </tr>
@@ -62,7 +62,7 @@ HOW TO USE:
 
 ### 🗓️ Contributions
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=github-dark\&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bugahodshania-jpg\&theme=github-dark\&hide_border=true)
 
 </div>
 
@@ -101,7 +101,7 @@ Collection of small frontend and backend projects
 
 ### 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=bugahodshania-jpg&theme=darkhub&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -113,6 +113,6 @@ Collection of small frontend and backend projects
 
 ### 🤝 Connect with Me
 
-<a href="https://github.com/YOUR_USERNAME">GitHub</a> • <a href="mailto:your.email@example.com">Email</a>
+<a href="https://github.com/bugahodshania-jpg">GitHub</a> • <a href="mailto:your.email@example.com">Email</a>
 
 </div>
