@@ -80,7 +80,7 @@
 <img src="https://skillicons.dev/icons?i=arduino,mysql,git,github,vscode" />
 
 </div>
----
+
 ---
 
 <!-- POPULAR REPOS BOX -->
