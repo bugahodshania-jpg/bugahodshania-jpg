@@ -79,7 +79,7 @@ HOW TO USE:
 
 <table width="100%" cellspacing="0" cellpadding="10" style="border-collapse: collapse; border: 1px solid #333;">
 <tr>
-  <td width="50%" valign="top" style="border-right: 1px solid #333;">
+  <td width="60%" valign="top" style="border-right: 1px solid #333;">
     <b>Programming Languages</b>
     <div style="margin-top:20px; display:flex; gap:50px; flex-wrap:wrap;">
       <img src="https://skillicons.dev/icons?i=html" width="50" />
