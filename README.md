@@ -79,7 +79,7 @@ HOW TO USE:
 
 ### ▢ Languages & Tools
 
-<table width="100%" cellspacing="0" cellpadding="10" style="border-collapse: collapse; border: 1px solid #333;">
+<table width="100%" cellspacing="0" cellpadding="40" style="border-collapse: collapse; border: 1px solid #333;">
 <tr>
   <td width="50%" valign="top" style="border-right: 1px solid #333;">
     <b>Programming Languages</b>
