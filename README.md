@@ -2,7 +2,7 @@
 HOW TO USE:
 1. Create a repo named exactly your GitHub username.
 2. Add this content to README.md
-3. Replace bugahodshania-jpg and placeholders.
+3. Replace placeholders with your info.
 -->
 
 <div align="center">
@@ -12,9 +12,8 @@ HOW TO USE:
 <table width="100%">
 <tr>
 <td width="30%" align="center">
-  <!-- Use your GitHub numeric ID or uploaded image -->
+  <!-- Uploaded profile image -->
   <img src="my-photo1.png" width="250" style="border-radius:50%;" />
-
 </td>
 <td width="70%" valign="top">
   <h1>Hello, world! 🌐</h1>
@@ -110,7 +109,7 @@ HOW TO USE:
 
 #### 🔹 TechnoKeeper
 
-RFID‑Based Smart Scheduling Door Lock System 
+RFID‑Based Smart Scheduling Door Lock System  
 ⭐ Arduino • PHP • MySQL
 
 </td>
@@ -118,7 +117,7 @@ RFID‑Based Smart Scheduling Door Lock System
 
 #### 🔹 Simple Web Projects
 
-Collection of small frontend and backend projects
+Collection of small frontend and backend projects  
 ⭐ HTML • CSS • JavaScript
 
 </td>
