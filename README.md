@@ -12,19 +12,20 @@ HOW TO USE:
 <table width="100%">
 <tr>
 <td width="30%" align="center">
-  <img src="https://avatars.githubusercontent.com/u/bugahodshania-jpg?v=4" width="200" style="border-radius:12px;" />
+  <!-- Use your GitHub numeric ID or uploaded image -->
+  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="200" style="border-radius:50%;" />
 </td>
 <td width="70%" valign="top">
   <h1>Hello, world! 🌐</h1>
   <p>
     I’m <b>Shania Bugahod</b>, a student developer passionate about building innovative software and hardware projects.
-    I enjoy creating web systems, hardware‑integrated projects, and exploring new technologies.
+    I enjoy creating web systems, integrating electronics, and exploring new technologies.
   </p>
 
   <p>
-    ▢ Interests: Web Development, Arduino, RFID Systems<br>
-    ▢ Currently learning: Full‑Stack Development<br>
-    ▢ Goal: Build useful and real‑world systems
+    🔧 Interests: Web Development, Arduino, RFID Systems<br>
+    🌱 Currently learning: Full-Stack Development<br>
+    🎯 Goal: Build useful and real-world systems
   </p>
 </td>
 </tr>
@@ -42,14 +43,14 @@ HOW TO USE:
 
 ### ▢ GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bugahodshania-jpg\&show_icons=true\&theme=dark\&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bugahodshania-jpg&show_icons=true&theme=dark&hide_border=true)
 
 </td>
 <td width="50%" align="center">
 
 ### ▢ GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bugahodshania-jpg\&theme=dark\&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bugahodshania-jpg&theme=dark&hide_border=true)
 
 </td>
 </tr>
@@ -63,7 +64,7 @@ HOW TO USE:
 
 ### ▢ Contributions
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bugahodshania-jpg\&theme=github-dark\&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bugahodshania-jpg&theme=github-dark&hide_border=true)
 
 </div>
 
