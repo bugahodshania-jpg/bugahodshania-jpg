@@ -79,7 +79,7 @@ HOW TO USE:
 
 <table width="100%" cellspacing="0" cellpadding="10" style="border-collapse: collapse; border: 1px solid #333;">
 <tr>
-  <td width="75%" valign="top" style="border-right: 1px solid #333;">
+  <td width="72%" valign="top" style="border-right: 1px solid #333;">
     <b>Programming Languages</b>
     <div style="margin-top:20px; display:flex; gap:50px; flex-wrap:wrap;">
       <img src="https://skillicons.dev/icons?i=html" width="50" />
@@ -91,7 +91,7 @@ HOW TO USE:
       <img src="https://skillicons.dev/icons?i=flutter" width="50" />
     </div>
   </td>
-  <td width="75%" valign="top">
+  <td width="722%" valign="top">
     <b>Tools & Technologies</b>
     <div style="margin-top:20px; display:flex; gap:50px; flex-wrap:wrap;">
       <img src="https://skillicons.dev/icons?i=arduino" width="50" />
