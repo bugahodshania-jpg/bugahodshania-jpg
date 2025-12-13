@@ -21,11 +21,13 @@ I enjoy designing practical systems that combine **hardware + software** to solv
 ---
 
 ## 📊 GitHub Activity
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bugahodshania-jpg&show_icons=true&theme=dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bugahodshania-jpg&theme=dark&hide_border=true)
 
 ---
+
 
 ## 📂 Featured Projects
 - 🔐 **TechnoKeeper** – RFID Smart Door Lock System  
@@ -35,5 +37,5 @@ I enjoy designing practical systems that combine **hardware + software** to solv
 ---
 
 ## 🤝 Let’s Connect
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: your@email.com
+- GitHub: https://github.com/bugahodshania-jpg
+- Email: bugahodshania@gmail.com
