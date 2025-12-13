@@ -22,9 +22,9 @@ HOW TO USE:
   </p>
 
   <p>
-    🔧 Interests: Web Development, Arduino, RFID Systems<br>
-    🌱 Currently learning: Full‑Stack Development<br>
-    🎯 Goal: Build useful and real‑world systems
+    ▢ Interests: Web Development, Arduino, RFID Systems<br>
+    ▢ Currently learning: Full‑Stack Development<br>
+    ▢ Goal: Build useful and real‑world systems
   </p>
 </td>
 </tr>
@@ -79,7 +79,7 @@ HOW TO USE:
 
 **Programming Languages**
 
-<div align="center" style="max-width:360px;margin:auto;">
+<div align="center" style="max-width:380px;margin:auto;">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,dart,flutter" style="transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
 </div>
 
@@ -88,7 +88,7 @@ HOW TO USE:
 
 **Tools & Technologies**
 
-<div align="center" style="max-width:360px;margin:auto;">
+<div align="center" style="max-width:380px;margin:auto;">
   <img src="https://skillicons.dev/icons?i=arduino,mysql,git,github,vscode" style="transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
 </div>
 
