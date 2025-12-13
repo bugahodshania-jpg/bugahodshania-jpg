@@ -2,6 +2,7 @@
 <div align="center">
 
 <!-- HEADER -->
+<img width="2041" height="553" alt="github-header-banner" src="https://github.com/user-attachments/assets/d6f7dd97-68f5-4e3a-9536-b74fe46a9227" />
 
 <table width="100%">
 <tr>
