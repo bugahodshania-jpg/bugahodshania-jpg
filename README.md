@@ -81,14 +81,14 @@ HOW TO USE:
 <tr>
   <td width="50%" valign="top" style="border-right: 1px solid #333;">
     <b>Programming Languages</b>
-    <div style="margin-top:10px; display:flex; gap:10px; flex-wrap:wrap;">
-      <img src="https://skillicons.dev/icons?i=html" width="40" />
-      <img src="https://skillicons.dev/icons?i=css" width="40" />
-      <img src="https://skillicons.dev/icons?i=js" width="40" />
-      <img src="https://skillicons.dev/icons?i=php" width="40" />
-      <img src="https://skillicons.dev/icons?i=cpp" width="40" />
-      <img src="https://skillicons.dev/icons?i=dart" width="40" />
-      <img src="https://skillicons.dev/icons?i=flutter" width="40" />
+    <div style="margin-top:20px; display:flex; gap:20px; flex-wrap:wrap;">
+      <img src="https://skillicons.dev/icons?i=html" width="50" />
+      <img src="https://skillicons.dev/icons?i=css" width="50" />
+      <img src="https://skillicons.dev/icons?i=js" width="50" />
+      <img src="https://skillicons.dev/icons?i=php" width="50" />
+      <img src="https://skillicons.dev/icons?i=cpp" width="50" />
+      <img src="https://skillicons.dev/icons?i=dart" width="50" />
+      <img src="https://skillicons.dev/icons?i=flutter" width="50" />
     </div>
   </td>
   <td width="50%" valign="top">
