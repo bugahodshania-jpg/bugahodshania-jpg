@@ -45,7 +45,7 @@
 
 ### ▢ GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bugahodshania-jpg&theme=nightowl&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bugahodshania-jpg&theme=tokyonight&hide_border=true)
 
 </td>
 </tr>
