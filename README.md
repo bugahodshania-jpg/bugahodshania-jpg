@@ -83,15 +83,13 @@ HOW TO USE:
 
 <b>Programming Languages</b>
 
-<br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,dart,flutter" />
 
-<br><br>
+<br>
 
 <b>Tools & Technologies</b>
 
-<br>
 
 <img src="https://skillicons.dev/icons?i=arduino,mysql,git,github,vscode" />
 
