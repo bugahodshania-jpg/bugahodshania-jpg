@@ -78,14 +78,18 @@ HOW TO USE:
 
 **Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,cpp" />
+<div align="center" style="max-width:360px;margin:auto;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp" style="transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+</div>
 
 </td>
 <td width="50%" valign="top">
 
 **Tools & Technologies**
 
-<img src="https://skillicons.dev/icons?i=arduino,mysql,git,github,vscode" />
+<div align="center" style="max-width:360px;margin:auto;">
+  <img src="https://skillicons.dev/icons?i=arduino,mysql,git,github,vscode" style="transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+</div>
 
 </td>
 </tr>
