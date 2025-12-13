@@ -79,9 +79,9 @@ HOW TO USE:
 
 <table width="100%" cellspacing="0" cellpadding="10" style="border-collapse: collapse; border: 1px solid #333;">
 <tr>
-  <td width="50%" valign="top" style="border-right: 1px solid #333;">
+  <td width="100%" valign="top" style="border-right: 1px solid #333;">
     <b>Programming Languages</b>
-    <div style="margin-top:20px; display:flex; gap:20px; flex-wrap:wrap;">
+    <div style="margin-top:20px; display:flex; gap:50px; flex-wrap:wrap;">
       <img src="https://skillicons.dev/icons?i=html" width="50" />
       <img src="https://skillicons.dev/icons?i=css" width="50" />
       <img src="https://skillicons.dev/icons?i=js" width="50" />
@@ -93,12 +93,12 @@ HOW TO USE:
   </td>
   <td width="50%" valign="top">
     <b>Tools & Technologies</b>
-    <div style="margin-top:10px; display:flex; gap:10px; flex-wrap:wrap;">
-      <img src="https://skillicons.dev/icons?i=arduino" width="40" />
-      <img src="https://skillicons.dev/icons?i=mysql" width="40" />
-      <img src="https://skillicons.dev/icons?i=git" width="40" />
-      <img src="https://skillicons.dev/icons?i=github" width="40" />
-      <img src="https://skillicons.dev/icons?i=vscode" width="40" />
+    <div style="margin-top:20px; display:flex; gap:50px; flex-wrap:wrap;">
+      <img src="https://skillicons.dev/icons?i=arduino" width="50" />
+      <img src="https://skillicons.dev/icons?i=mysql" width="50" />
+      <img src="https://skillicons.dev/icons?i=git" width="50" />
+      <img src="https://skillicons.dev/icons?i=github" width="50" />
+      <img src="https://skillicons.dev/icons?i=vscode" width="50" />
     </div>
   </td>
 </tr>
