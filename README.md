@@ -1,12 +1,5 @@
-<!--
-HOW TO USE:
-1. Create a repo named exactly your GitHub username.
-2. Add this content to README.md
-3. Replace bugahodshania-jpg and placeholders.
--->
 
 <div align="center">
-
 
 <!-- HEADER -->
 
@@ -24,9 +17,9 @@ HOW TO USE:
   </p>
 
   <p>
-    🔧 Interests: Web Development, Arduino, RFID Systems<br>
-    🌱 Currently learning: Full-Stack Development<br>
-    🎯 Goal: Build useful and real-world systems
+    🔹 Interests: Web Development, Arduino, RFID Systems<br>
+    🔹 Currently learning: Full-Stack Development<br>
+    🔹 Goal: Build useful and real-world systems
   </p>
 </td>
 </tr>
