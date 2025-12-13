@@ -79,7 +79,7 @@ HOW TO USE:
 
 **Programming Languages**
 
-<div align="center" style="max-width:380px;margin:auto;">
+<div align="center" style="max-width:350px;margin:auto; padding: 20px;">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,dart,flutter" style="transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
 </div>
 
@@ -88,7 +88,7 @@ HOW TO USE:
 
 **Tools & Technologies**
 
-<div align="center" style="max-width:380px;margin:auto;">
+<div align="center" style="max-width:350px;margin:auto; padding: 20px;">
   <img src="https://skillicons.dev/icons?i=arduino,mysql,git,github,vscode" style="transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
 </div>
 
@@ -108,7 +108,7 @@ HOW TO USE:
 
 #### 🔹 TechnoKeeper
 
-RFID‑Based Smart Scheduling Door Lock System <br>
+RFID‑Based Smart Scheduling Door Lock System 
 ⭐ Arduino • PHP • MySQL
 
 </td>
@@ -116,7 +116,7 @@ RFID‑Based Smart Scheduling Door Lock System <br>
 
 #### 🔹 Simple Web Projects
 
-Collection of small frontend and backend projects <br>
+Collection of small frontend and backend projects
 ⭐ HTML • CSS • JavaScript
 
 </td>
