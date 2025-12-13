@@ -15,11 +15,12 @@ HOW TO USE:
   <img src="https://avatars.githubusercontent.com/u/bugahodshania-jpg?v=4" width="200" style="border-radius:12px;" />
 </td>
 <td width="70%" valign="top">
-  <h1>Howdy! 🖐️</h1>
+  <h1>Hello, world! 🌐</h1>
   <p>
-    I’m <b>Shania Bugahod</b>, a student developer and aspiring software engineer.
-    I enjoy building web systems, hardware‑integrated projects, and learning new technologies.
+    I’m <b>Shania Bugahod</b>, a student developer passionate about building innovative software and hardware projects.
+    I enjoy creating web systems, hardware‑integrated projects, and exploring new technologies.
   </p>
+
   <p>
     🔧 Interests: Web Development, Arduino, RFID Systems<br>
     🌱 Currently learning: Full‑Stack Development<br>
