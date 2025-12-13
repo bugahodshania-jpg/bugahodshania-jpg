@@ -28,7 +28,27 @@
 </div>
 
 ---
+<!-- LANGUAGES & TOOLS BOX -->
 
+<!-- LANGUAGES & TOOLS BOX -->
+
+### ▢ Languages & Tools
+
+<div align="center">
+
+<b>Programming Languages</b>
+
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,dart,flutter" />
+
+<br><br>
+
+<b>Tools & Technologies</b>
+
+
+<img src="https://skillicons.dev/icons?i=arduino,mysql,git,github,vscode" />
+
+</div>
 ---
 
 <!-- STATS BOX -->
@@ -62,29 +82,6 @@
 </div>
 
 ---
-
-<!-- LANGUAGES & TOOLS BOX -->
-
-<!-- LANGUAGES & TOOLS BOX -->
-
-### ▢ Languages & Tools
-
-<div align="center">
-
-<b>Programming Languages</b>
-
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,dart,flutter" />
-
-<br><br>
-
-<b>Tools & Technologies</b>
-
-
-<img src="https://skillicons.dev/icons?i=arduino,mysql,git,github,vscode" />
-
-</div>
-
 
 
 ---
