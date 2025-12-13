@@ -75,13 +75,15 @@ HOW TO USE:
 
 <!-- LANGUAGES & TOOLS BOX -->
 
+<!-- LANGUAGES & TOOLS BOX -->
+
 ### ▢ Languages & Tools
 
 <table width="100%" cellspacing="0" cellpadding="10" style="border-collapse: collapse; border: 1px solid #333;">
 <tr>
-  <td width="72%" valign="top" style="border-right: 1px solid #333;">
+  <td width="50%" valign="top" style="border-right: 1px solid #333;">
     <b>Programming Languages</b>
-    <div style="margin-top:20px; display:flex; gap:50px; flex-wrap:wrap;">
+    <div style="margin-top:15px; display:flex; gap:15px; flex-wrap:wrap; justify-content:center;">
       <img src="https://skillicons.dev/icons?i=html" width="50" />
       <img src="https://skillicons.dev/icons?i=css" width="50" />
       <img src="https://skillicons.dev/icons?i=js" width="50" />
@@ -91,9 +93,9 @@ HOW TO USE:
       <img src="https://skillicons.dev/icons?i=flutter" width="50" />
     </div>
   </td>
-  <td width="72%" valign="top">
+  <td width="50%" valign="top">
     <b>Tools & Technologies</b>
-    <div style="margin-top:20px; display:flex; gap:50px; flex-wrap:wrap;">
+    <div style="margin-top:15px; display:flex; gap:15px; flex-wrap:wrap; justify-content:center;">
       <img src="https://skillicons.dev/icons?i=arduino" width="50" />
       <img src="https://skillicons.dev/icons?i=mysql" width="50" />
       <img src="https://skillicons.dev/icons?i=git" width="50" />
