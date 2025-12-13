@@ -68,6 +68,31 @@ HOW TO USE:
 
 ---
 
+<!-- LANGUAGES & TOOLS BOX -->
+
+### ▢ Languages & Tools
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Programming Languages**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,cpp" />
+
+</td>
+<td width="50%" valign="top">
+
+**Tools & Technologies**
+
+<img src="https://skillicons.dev/icons?i=arduino,mysql,git,github,vscode" />
+
+</td>
+</tr>
+</table>
+
+---
+
 <!-- POPULAR REPOS BOX -->
 
 ### ▢ Popular Repositories
