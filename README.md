@@ -13,7 +13,7 @@ HOW TO USE:
 <tr>
 <td width="30%" align="center">
   <!-- Use your GitHub numeric ID or uploaded image -->
-  <img src="my-photo.png" width="250" style="border-radius:50%;" />
+  <img src="my-photo1.png" width="250" style="border-radius:50%;" />
 
 </td>
 <td width="70%" valign="top">
