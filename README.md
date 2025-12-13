@@ -83,7 +83,7 @@ HOW TO USE:
 
 <b>Programming Languages</b>
 
-<br><br>
+<br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,dart,flutter" />
 
@@ -91,7 +91,7 @@ HOW TO USE:
 
 <b>Tools & Technologies</b>
 
-<br><br>
+<br>
 
 <img src="https://skillicons.dev/icons?i=arduino,mysql,git,github,vscode" />
 
