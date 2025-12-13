@@ -79,33 +79,24 @@ HOW TO USE:
 
 ### ▢ Languages & Tools
 
-<table width="100%">
-<tr>
-  <td width="50%" valign="top" align="right">
-    <b>Programming Languages</b>
-    <div style="margin-top:15px; display:flex; gap:15px; flex-wrap:wrap; justify-content:flex-end;">
-      <img src="https://skillicons.dev/icons?i=html" width="50" />
-      <img src="https://skillicons.dev/icons?i=css" width="50" />
-      <img src="https://skillicons.dev/icons?i=js" width="50" />
-      <img src="https://skillicons.dev/icons?i=php" width="50" />
-      <img src="https://skillicons.dev/icons?i=cpp" width="50" />
-      <img src="https://skillicons.dev/icons?i=dart" width="50" />
-      <img src="https://skillicons.dev/icons?i=flutter" width="50" />
-    </div>
-  </td>
+<div align="center">
 
-  <td width="50%" valign="top" align="right">
-    <b>Tools & Technologies</b>
-    <div style="margin-top:15px; display:flex; gap:15px; flex-wrap:wrap; justify-content:flex-end;">
-      <img src="https://skillicons.dev/icons?i=arduino" width="50" />
-      <img src="https://skillicons.dev/icons?i=mysql" width="50" />
-      <img src="https://skillicons.dev/icons?i=git" width="50" />
-      <img src="https://skillicons.dev/icons?i=github" width="50" />
-      <img src="https://skillicons.dev/icons?i=vscode" width="50" />
-    </div>
-  </td>
-</tr>
-</table>
+<b>Programming Languages</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,dart,flutter" />
+
+<br><br>
+
+<b>Tools & Technologies</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=arduino,mysql,git,github,vscode" />
+
+</div>
+
 
 
 ---
