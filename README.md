@@ -91,7 +91,7 @@ HOW TO USE:
       <img src="https://skillicons.dev/icons?i=flutter" width="50" />
     </div>
   </td>
-  <td width="722%" valign="top">
+  <td width="72%" valign="top">
     <b>Tools & Technologies</b>
     <div style="margin-top:20px; display:flex; gap:50px; flex-wrap:wrap;">
       <img src="https://skillicons.dev/icons?i=arduino" width="50" />
