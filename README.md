@@ -79,7 +79,7 @@ HOW TO USE:
 **Programming Languages**
 
 <div align="center" style="max-width:360px;margin:auto;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp" style="transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,dart,flutter" style="transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
 </div>
 
 </td>
