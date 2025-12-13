@@ -15,7 +15,7 @@ HOW TO USE:
   <img src="https://avatars.githubusercontent.com/u/bugahodshania-jpg?v=4" width="200" style="border-radius:12px;" />
 </td>
 <td width="70%" valign="top">
-  <h1>Howdy! 👋</h1>
+  <h1>Howdy! 🖐️</h1>
   <p>
     I’m <b>Shania Bugahod</b>, a student developer and aspiring software engineer.
     I enjoy building web systems, hardware‑integrated projects, and learning new technologies.
@@ -39,14 +39,14 @@ HOW TO USE:
 <tr>
 <td width="50%" align="center">
 
-### 📊 GitHub Stats
+### ▢ GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bugahodshania-jpg\&show_icons=true\&theme=dark\&hide_border=true)
 
 </td>
 <td width="50%" align="center">
 
-### 🔥 GitHub Streak
+### ▢ GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bugahodshania-jpg\&theme=dark\&hide_border=true)
 
@@ -60,7 +60,7 @@ HOW TO USE:
 
 <div align="center">
 
-### 🗓️ Contributions
+### ▢ Contributions
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bugahodshania-jpg\&theme=github-dark\&hide_border=true)
 
@@ -70,7 +70,7 @@ HOW TO USE:
 
 <!-- POPULAR REPOS BOX -->
 
-### 📌 Popular Repositories
+### ▢ Popular Repositories
 
 <table width="100%">
 <tr>
@@ -99,7 +99,7 @@ Collection of small frontend and backend projects
 
 <div align="center">
 
-### 🏆 Achievements
+### ▢ Achievements
 
 <img src="https://github-profile-trophy.vercel.app/?username=bugahodshania-jpg&theme=darkhub&no-frame=true&row=1&column=6" />
 
@@ -111,7 +111,7 @@ Collection of small frontend and backend projects
 
 <div align="center">
 
-### 🤝 Connect with Me
+### ▢ Connect with Me
 
 <a href="https://github.com/bugahodshania-jpg">GitHub</a> • <a href="mailto:your.email@example.com">Email</a>
 
