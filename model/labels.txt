@@ -1,0 +1,12 @@
+0 fingerprint sensor
+1 ultrasonic sensor
+2 water level sensor
+3 sound sensor
+4 humidity temperature sensor
+5 soil moisture sensor
+6 flame sensor
+7 touch sensor
+8 smoke gas sensor
+9 RFID sensor
+
+

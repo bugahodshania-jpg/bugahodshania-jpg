@@ -1,0 +1,12 @@
+fingerprint sensor
+ultrasonic sensor
+water level sensor
+sound sensor
+humidity temperature sensor
+soil moisture sensor
+flame sensor
+touch sensor
+smoke gas sensor
+RFID sensor
+
+
