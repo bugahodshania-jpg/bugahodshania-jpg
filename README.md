@@ -8,7 +8,7 @@
 <tr>
 <td width="30%" align="center">
   <!-- Uploaded profile image -->
-  <img src="my-photo1.png" width="250" style="border-radius:50%;" />
+  <img src="class_samples/my-photo1.png" width="250" style="border-radius:50%;" />
 </td>
 <td width="70%" valign="top">
   <h1>Hello, world! 🌐</h1>
@@ -135,6 +135,7 @@ Collection of small frontend and backend projects
 </a>
 
 </div>
+
 
 
 ## 🚀 Current Project: **ArSense (Arduino Sensor Scanner – Flutter App)**
