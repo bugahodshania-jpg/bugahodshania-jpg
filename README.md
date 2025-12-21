@@ -8,7 +8,7 @@
 <tr>
 <td width="30%" align="center">
   <!-- Uploaded profile image -->
-  <img src="class_samples/my-photo1.png" width="250" style="border-radius:50%;" />
+  <img src="my-photo1.png" width="400" style="border-radius:100%;" />
 </td>
 <td width="70%" valign="top">
   <h1>Hello, world! 🌐</h1>
@@ -136,9 +136,12 @@ Collection of small frontend and backend projects
 
 </div>
 
+<br>
 
+<div>
 
-## 🚀 Current Project: **ArSense (Arduino Sensor Scanner – Flutter App)**
+____________________________________________________________________________________________________________
+## ▢ Current Project: **ArSense (Arduino Sensor Scanner – Flutter App)**
 
 <p align="justify">
 <strong>ArSense</strong> is a mobile image classification application developed using <strong>Flutter</strong> as part of my Information Technology coursework. The app is designed to help users <strong>identify Arduino sensors</strong> by analyzing images through a trained image recognition model.
@@ -152,7 +155,7 @@ Overall, this project helped me strengthen my skills in <strong>Flutter UI devel
 
 ---
 
-## 🔌 Arduino Sensor Classes Overview
+## ▢ Arduino Sensor Classes Overview
 
 Below is an overview of the Arduino sensor classes supported by ArSense. Each sensor includes a short description and a representative sample image.
 
@@ -166,137 +169,176 @@ Below is an overview of the Arduino sensor classes supported by ArSense. Each se
   <tr>
     <td><strong>Fingerprint Sensor</strong></td>
     <td>A biometric sensor used to capture and recognize fingerprint patterns. Commonly used in security systems, door locks, and authentication projects.</td>
-    <td align="center"><img src="class_samples/fingerprint.jpg" width="90"/></td>
+    <td align="center"><img src="class_samples/fingerprint.png" width="90"/></td>
   </tr>
 
   <tr>
     <td><strong>Ultrasonic Sensor</strong></td>
     <td>Measures distance by emitting ultrasonic waves and calculating the echo time. Widely used in obstacle detection, robotics, and parking systems.</td>
-    <td align="center"><img src="class_samples/ultrasonic.jpg" width="90"/></td>
+    <td align="center"><img src="class_samples/ultrasonic.png" width="90"/></td>
   </tr>
 
   <tr>
     <td><strong>Water Level Sensor</strong></td>
     <td>Detects the presence and height of water. Commonly used in water tanks, flood detection systems, and irrigation projects.</td>
-    <td align="center"><img src="class_samples/water_level.jpg" width="90"/></td>
+    <td align="center"><img src="class_samples/water_level.png" width="90"/></td>
   </tr>
 
   <tr>
     <td><strong>Sound Sensor</strong></td>
     <td>Detects sound intensity using a microphone module. Used in noise detection, clap switches, and audio-based automation projects.</td>
-    <td align="center"><img src="class_samples/sound.jpg" width="90"/></td>
+    <td align="center"><img src="class_samples/sound.png" width="90"/></td>
   </tr>
 
   <tr>
     <td><strong>Temperature & Humidity Sensor</strong></td>
     <td>Measures ambient temperature and humidity. Commonly used in weather monitoring, smart homes, and environmental systems.</td>
-    <td align="center"><img src="class_samples/dht.jpg" width="90"/></td>
+    <td align="center"><img src="class_samples/humidity_temp.png" width="90"/></td>
   </tr>
 
   <tr>
     <td><strong>Soil Moisture Sensor</strong></td>
     <td>Detects moisture levels in soil. Frequently used in smart irrigation and agricultural monitoring systems.</td>
-    <td align="center"><img src="class_samples/soil_moisture.jpg" width="90"/></td>
+    <td align="center"><img src="class_samples/soil_moisture.png" width="90"/></td>
   </tr>
 
   <tr>
     <td><strong>Flame Sensor</strong></td>
     <td>Detects the presence of fire or flame using infrared light. Used in fire alarm and safety systems.</td>
-    <td align="center"><img src="class_samples/flame.jpg" width="90"/></td>
+    <td align="center"><img src="class_samples/flame.png" width="90"/></td>
   </tr>
 
   <tr>
     <td><strong>Touch Sensor</strong></td>
     <td>Detects physical touch or contact. Often used as an alternative to buttons and switches in interactive projects.</td>
-    <td align="center"><img src="class_samples/touch.jpg" width="90"/></td>
+    <td align="center"><img src="class_samples/touch.png" width="90"/></td>
   </tr>
 
   <tr>
     <td><strong>Smoke & Gas Sensor</strong></td>
     <td>Detects smoke and harmful gases such as LPG or methane. Commonly used in safety and air-quality monitoring systems.</td>
-    <td align="center"><img src="class_samples/gas.jpg" width="90"/></td>
+    <td align="center"><img src="class_samples/smoke_gas.png" width="90"/></td>
   </tr>
 
   <tr>
     <td><strong>RFID Sensor</strong></td>
     <td>Uses radio frequency to read and identify RFID tags. Widely used in access control, attendance systems, and inventory tracking.</td>
-    <td align="center"><img src="class_samples/rfid.jpg" width="90"/></td>
+    <td align="center"><img src="class_samples/rfid.png" width="90"/></td>
   </tr>
 </table>
 
 ---
 
-## 🏠 Main Page & 📖 Sensor Dictionary
+## ▢ Main Page & Sensor Dictionary
 
 <table>
   <tr>
     <td align="center">
-      <strong>Main Page</strong><br/>
-      <img src="app_screenshots/MainPage.jpg" width="200"/><br/>
-      <sub>The Main Page serves as the entry point of ArSense. Users can navigate to the sensor dictionary, open the camera, upload images, and access analytics and history.</sub>
+      <strong>Landing Page</strong><br/>
+      <div style="text-align: center;">
+        <img src="app_screenshots/landing_page.jpeg" width="200" alt="Landing Page" style="display: block; margin: 0 auto;"/>
+      </div>
+      <sub>The landing page of ArSense app</sub>
     </td>
-
-```
-<td align="center">
-  <strong>Sensor Dictionary</strong><br/>
-  <img src="app_screenshots/Dictionary.jpg" width="200"/><br/>
-  <sub>The Sensor Dictionary lists all Arduino sensors supported by the app, allowing users to browse and learn about each component.</sub>
-</td>
-```
-
+    <td align="center">
+      <strong>Home Screen</strong><br/>
+      <div style="text-align: center;">
+        <img src="app_screenshots/home_screen.jpeg" width="200" alt="Home Screen" style="display: block; margin: 0 auto;"/>
+      </div>
+      <sub>Home screen with navigation options</sub>
+    </td>
+    <td align="center">
+      <strong>Home Overview Sensor</strong><br/>
+      <div style="text-align: center;">
+        <img src="app_screenshots/home_overview_sensor.jpeg" width="200" alt="Home Overview Sensor" style="display: block; margin: 0 auto;"/>
+      </div>
+      <sub>Sensor overview and information display</sub>
+    </td>
   </tr>
 </table>
-
----
-
-## 📷 Capture or Upload Images & ✅ Classification Result
 
 <table>
   <tr>
     <td align="center">
-      <strong>Capture or Upload</strong><br/>
-      <img src="app_screenshots/Camera.jpg" width="200"/>
-      <img src="app_screenshots/Upload.jpg" width="200"/><br/>
-      <sub>Users can take a photo using the camera or upload an image from the gallery to classify an Arduino sensor.</sub>
+      <strong>Class Info</strong><br/>
+      <img src="app_screenshots/class_info_screen.jpeg" width="200"/><br/>
+      <sub>Sensor information and specifications</sub>
     </td>
-
-```
-<td align="center">
-  <strong>Classification Result</strong><br/>
-  <img src="app_screenshots/Result.jpg" width="200"/><br/>
-  <sub>The result screen displays the predicted sensor type along with confidence percentages for better understanding.</sub>
-</td>
-```
-
+    <td align="center">
+      <strong>Project Ideas</strong><br/>
+      <img src="app_screenshots/projct_idea_screen.jpeg" width="200"/><br/>
+      <sub>Project ideas for Arduino sensors</sub>
+    </td>
   </tr>
 </table>
 
----
 
-## 📊 Analytics, Detections per Sensor & 🕒 Scan History
+## ▢ Capture or Upload Images & Classification Result
 
 <table>
   <tr>
     <td align="center">
-      <strong>Analytics & Detections per Sensor</strong><br/>
-      <img src="app_screenshots/Analytics.jpg" width="200"/>
-      <img src="app_screenshots/Detections.jpg" width="200"/><br/>
-      <sub>Analytics summarize how often each sensor type is detected. Charts help visualize user interaction and learning trends.</sub>
+      <strong>Camera Onboard</strong><br/>
+      <img src="app_screenshots/camera_onboard_screen.jpeg" width="200"/><br/>
+      <sub>Camera interface for capturing sensor</sub>
     </td>
-
-```
-<td align="center">
-  <strong>Scan History</strong><br/>
-  <img src="app_screenshots/History.jpg" width="200"/><br/>
-  <sub>The History screen records previous scans, including sensor name, confidence level, and timestamp.</sub>
-</td>
-```
-
+    <td align="center">
+      <strong>Upload Screen</strong><br/>
+      <img src="app_screenshots/camera_upload_screen.jpeg" width="200"/><br/>
+      <sub>Upload existing images from gallery</sub>
+    </td>
+    <td align="center">
+      <strong>Classification Result</strong><br/>
+      <img src="app_screenshots/pridiction_result1.jpeg" width="200"/><br/>
+        <sub>Arduino Sensor captured</sub>
+    </td>
+    <td align="center">
+      <strong>Classification Result</strong><br/>
+      <img src="app_screenshots/pridiction_result.jpeg" width="200"/><br/>
+      <sub>Results with confidence percentages.</sub>
+    </td>
   </tr>
 </table>
 
 ---
-## 🚀 Key Features Summary
+
+## ▢ Analytics, Detections per Sensor & Scan History
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Chart Screen 1</strong><br/>
+      <div style="text-align: center;">
+        <img src="app_screenshots/chart_screen_1.jpeg" width="200" style="display: block; margin: 0 auto;"/>
+      </div>
+      <sub>Analytics showing detection frequency</sub>
+    </td>
+    <td align="center">
+      <strong>Chart Screen 2</strong><br/>
+      <div style="text-align: center;">
+        <img src="app_screenshots/chart_screen_2.jpeg" width="200" style="display: block; margin: 0 auto;"/>
+      </div>
+      <sub>Detailed analytics visualization</sub>
+    </td>
+    <td align="center">
+      <strong>History Screen 1</strong><br/>
+      <div style="text-align: center;">
+        <img src="app_screenshots/history_screen_1.jpeg" width="200" style="display: block; margin: 0 auto;"/>
+      </div>
+      <sub>Scan history overview</sub>
+    </td>
+    <td align="center">
+      <strong>History Screen 2</strong><br/>
+      <div style="text-align: center;">
+        <img src="app_screenshots/history_screen_2.jpeg" width="200" style="display: block; margin: 0 auto;"/>
+      </div>
+      <sub>Detailed scan history with timestamps</sub>
+    </td>
+  </tr>
+</table>
+
+---
+## ▢ Key Features Summary
 
 <table>
   <tr>
@@ -341,6 +383,7 @@ Below is an overview of the Arduino sensor classes supported by ArSense. Each se
     <td>Keeps a record of previous scans for review and learning purposes.</td>
   </tr>
 </table>
+</div>
 
 
 ---
