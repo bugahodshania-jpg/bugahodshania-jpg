@@ -51,19 +51,6 @@
 </tr>
 </table>
 
-<table width="100%">
-<tr>
-<td width="100%" align="center">
-
-
-### ▢ Languages Used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugahodshania-jpg&layout=donut&show_icons=true&theme=dark)
-
-</td>
-</tr>
-</table>
-
-
 <!-- CONTRIBUTIONS BOX -->
 
 <div align="center">
