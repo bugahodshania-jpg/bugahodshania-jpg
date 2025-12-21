@@ -145,8 +145,7 @@ Collection of small frontend and backend projects
 <div>
 
 ____________________________________________________________________________________________________________
-<br>
-## ▢ Current Project: **ArSense (Arduino Sensor Scanner – Flutter App)**
+## ▢ Current Project: ArSense (Arduino Sensor Scanner – Flutter App)
 
 <p align="justify">
 <strong>ArSense</strong> is a mobile image classification application developed using <strong>Flutter</strong> as part of my Information Technology coursework. The app is designed to help users <strong>identify Arduino sensors</strong> by analyzing images through a trained image recognition model.
