@@ -140,6 +140,7 @@ Collection of small frontend and backend projects
 <div>
 
 ____________________________________________________________________________________________________________
+<br>
 ## ▢ Current Project: **ArSense (Arduino Sensor Scanner – Flutter App)**
 
 <p align="justify">
@@ -235,21 +236,21 @@ Below is an overview of the Arduino sensor classes supported by ArSense. Each se
     <td align="center">
       <strong>Landing Page</strong><br/>
       <div style="text-align: center;">
-        <img src="app_screenshots/landing_page.jpeg" width="200" alt="Landing Page" style="display: block; margin: 0 auto;"/>
+        <img src="app_screenshots/landing_page.jpeg" width="300" alt="Landing Page" style="display: block; margin: 0 auto;"/>
       </div>
       <sub>The landing page of ArSense app</sub>
     </td>
     <td align="center">
       <strong>Home Screen</strong><br/>
       <div style="text-align: center;">
-        <img src="app_screenshots/home_screen.jpeg" width="200" alt="Home Screen" style="display: block; margin: 0 auto;"/>
+        <img src="app_screenshots/home_screen.jpeg" width="300" alt="Home Screen" style="display: block; margin: 0 auto;"/>
       </div>
       <sub>Home screen with navigation options</sub>
     </td>
     <td align="center">
       <strong>Home Overview Sensor</strong><br/>
       <div style="text-align: center;">
-        <img src="app_screenshots/home_overview_sensor.jpeg" width="200" alt="Home Overview Sensor" style="display: block; margin: 0 auto;"/>
+        <img src="app_screenshots/home_overview_sensor.jpeg" width="300" alt="Home Overview Sensor" style="display: block; margin: 0 auto;"/>
       </div>
       <sub>Sensor overview and information display</sub>
     </td>
