@@ -290,7 +290,7 @@ Below is an overview of the Arduino sensor classes supported by ArSense. Each se
     <td align="center">
       <strong>Classification Result</strong><br/>
       <img src="app_screenshots/pridiction_result1.jpeg" width="200"/><br/>
-        <sub>Arduino Sensor captured</sub>
+        <sub>Arduino Sensor successfully captured image</sub>
     </td>
     <td align="center">
       <strong>Classification Result</strong><br/>
