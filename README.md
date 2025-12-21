@@ -325,7 +325,7 @@ Below is an overview of the Arduino sensor classes supported by ArSense. Each se
       <div style="text-align: center;">
         <img src="app_screenshots/history_screen_1.jpeg" width="200" style="display: block; margin: 0 auto;"/>
       </div>
-      <sub>Scan history overview</sub>
+      <sub>Scan history overview with details</sub>
     </td>
     <td align="center">
       <strong>History Screen 2</strong><br/>
