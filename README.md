@@ -53,18 +53,12 @@
 
 <table width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="100%" align="center">
 
 
 ### ▢ Languages Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugahodshania-jpg&layout=donut&show_icons=true&theme=dark)
 
-</td>
-<td width="50%" align="center">
-
-### ▢ GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bugahodshania-jpg\&theme=dark\&hide_border=true)
 </td>
 </tr>
 </table>
