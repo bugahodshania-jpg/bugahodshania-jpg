@@ -33,17 +33,17 @@
 
 <table width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
 ### ▢ GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bugahodshania-jpg\&show_icons=true\&theme=dark\&hide_border=true)
 </td>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
 ### ▢ Language Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugahodshania-jpg&layout=donut&show_icons=true&theme=dark&hide_border=true)
 </td>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
 ### ▢ GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bugahodshania-jpg\&theme=dark\&hide_border=true)
