@@ -294,7 +294,7 @@ Below is an overview of the Arduino sensor classes supported by ArSense. Each se
     </td>
     <td align="center">
       <strong>Classification Result</strong><br/>
-      <img src="app_screenshots/pridiction_result.jpeg" width="200"/><br/>
+      <img src="app_screenshots/pridiction_result2.jpeg" width="200"/><br/>
       <sub>Results with confidence percentages.</sub>
     </td>
   </tr>
